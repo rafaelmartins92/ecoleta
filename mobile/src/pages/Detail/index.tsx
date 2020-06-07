@@ -98,14 +98,14 @@ const styles = StyleSheet.create({
 
   pointImage: {
     width: '100%',
-    height: 120,
+    height: 185,
     resizeMode: 'cover',
     borderRadius: 10,
     marginTop: 32,
   },
 
   pointName: {
-    color: '#322153',
+    color: '#1F585E',
     fontSize: 28,
     fontFamily: 'Ubuntu_700Bold',
     marginTop: 24,
@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
   },
   
   addressTitle: {
-    color: '#322153',
+    color: '#1F585E',
     fontFamily: 'Roboto_500Medium',
     fontSize: 16,
   },

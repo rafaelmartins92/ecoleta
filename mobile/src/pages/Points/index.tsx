@@ -227,6 +227,7 @@ const styles = StyleSheet.create({
     color: '#FFF',
     fontSize: 13,
     lineHeight: 23,
+    textAlign: 'center',
   },
 
   itemsContainer: {

@@ -4,6 +4,7 @@ import { FiArrowLeft } from 'react-icons/fi'
 import { Map, TileLayer, Marker } from 'react-leaflet'
 import { LeafletMouseEvent } from 'leaflet'
 import axios from 'axios'
+import Swal from 'sweetalert2'
 
 import './styles.css'
 
@@ -141,7 +142,11 @@ const CreatePoint = () => {
 
     await api.post('points', data)
 
-    alert('Collect point created!')
+    Swal.fire(
+      'Good job!',
+      'You have registered a collect point!',
+      'success'
+    )
     
     history.push('/')
   }
