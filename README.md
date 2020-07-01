@@ -20,9 +20,9 @@
 <h4 align="center">
   <p>Your waste collection point is here!</p>
   
-  <p>This application was based on the Next Level Week #01 from Rocketseat.</p>
-
   <p>The main idea is to help people find waste collection points in an efficient way.</p>
+  
+  <p>This application was based on Next Level Week #01 from Rocketseat.</p>
 </h4>
 
 
