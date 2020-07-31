@@ -34,8 +34,8 @@
 </p>
 
 <p align="center">
-  <img alt="Scene" src="https://ik.imagekit.io/rafaelmartins/portfolio-scene_2x_IBgunyBkd.png">
-  <img alt="Design" src="https://ik.imagekit.io/rafaelmartins/portfolio-ui-design_2x_mHayzdvsz.png">
+  <img alt="Scene" src="https://ik.imagekit.io/rafaelmartins/Portfolio/portfolio-scene---ecoleta_2x_hkH-nufjT.png">
+  <img alt="Design" src="https://ik.imagekit.io/rafaelmartins/github-ui-design---ecoleta_2x_f_AAe-bhA.png">
 </p>
 
 ## :rocket: Technologies
